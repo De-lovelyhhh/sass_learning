@@ -2,3 +2,8 @@ $margin:10rpx;
 .log-item {
   margin: $margin;
 }
+log-list {
+  display: flex;
+  flex-direction: column;
+  padding: $margin*4;
+}
