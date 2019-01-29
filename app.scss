@@ -9,5 +9,7 @@ $a: 200rpx;
   justify-content: space-between;
   padding: $a 0;
   box-sizing: border-box;
-
+  .log-item {
+    margin: $a/20;
+  }
 }

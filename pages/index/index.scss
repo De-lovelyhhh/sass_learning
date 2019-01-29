@@ -1,22 +1,21 @@
-.userinfo{
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-}
-
 $long:128rpx;
 $margin:20rpx;
 $color:#aaa;
 
-.userinfo-avatar {
-  width: $long;
-  height: $long;
-  margin: $margin;
-  border-radius: 50%;
-}
+.userinfo{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  .userinfo-avatar {
+    width: $long;
+    height: $long;
+    margin: $margin;
+    border-radius: 50%;
+  }
 
-.userinfo-nickname {
-  color: $color;
+  .userinfo-nickname {
+    color: $color;
+  }
 }
 
 .usermotto {
