@@ -13,6 +13,6 @@
   color: #aaa; }
 
 .usermotto {
-  margin-top: 200px; }
+  margin-top: 200rpx; }
 
 /*# sourceMappingURL=index.wxss.map */

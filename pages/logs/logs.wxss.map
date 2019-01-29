@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAEA,SAAU;EACR,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,OAAO,EALA,KAAK;;AAOd,SAAU;EACR,MAAM,EAPA,KAAK",
+"mappings": "AACA,SAAU;EACR,MAAM,EAFA,KAAK",
 "sources": ["logs.scss"],
 "names": [],
 "file": "logs.wxss"

@@ -1,5 +1,5 @@
 $height:100%;
-$padding: 200rpx 0;
+$a: 200rpx;
 
 .container {
   height: $height;
@@ -7,6 +7,11 @@ $padding: 200rpx 0;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  padding: $padding;
+  padding: $a 0;
   box-sizing: border-box;
+  .log-list {
+    display: flex;
+    flex-direction: column;
+    padding: $a/5;
+  }
 }
