@@ -9,9 +9,5 @@ $a: 200rpx;
   justify-content: space-between;
   padding: $a 0;
   box-sizing: border-box;
-  log-list {
-    display: flex;
-    flex-direction: column;
-    padding: $a/5;
-  }
+
 }
